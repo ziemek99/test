@@ -1,5 +1,5 @@
 This file is... what? The answer is below:
 Just a test file.
 ...and a line below.
-Line in the middle of the file, crazy
+Line in the middle of the file, crazy thing!
 Another new line!
